@@ -16,3 +16,9 @@ This project was completed as part of a Research Experience for Undergraduates (
 - Visualized results and model performance across patient cohorts
 
 **Tech stack:** Python · TensorFlow · Keras · SHAP · NumPy · Pandas · Matplotlib · Jupyter
+
+## Research Outputs
+- Research paper produced from this work (REU Summer 2024)
+- Poster presented at NC A&T State University REU Symposium
+
+*Paper and poster available upon request.*
